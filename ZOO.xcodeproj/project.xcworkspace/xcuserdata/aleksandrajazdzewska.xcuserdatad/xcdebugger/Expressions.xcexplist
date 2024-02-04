@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "World::collectOrgFromGrid():World.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "grid[i][j]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "World::makeTurn(Organism**):World.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "OrganismArr[j]">
+            </PersistentString>
+            <PersistentString
+               value = "OrganismArr[i]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "World::World(int, int, std::__1::basic_ifstream&lt;char, std::__1::char_traits&lt;char&gt; &gt;&amp;):World.cpp">
+      </ContextState>
+      <ContextState
+         contextName = "Organism::getSpecieInt():Organism.cpp">
+      </ContextState>
+      <ContextState
+         contextName = "Organism::NearestFreeCell(int, int):Organism.cpp">
+      </ContextState>
+      <ContextState
+         contextName = "Organism::~Organism():Organism.hpp">
+      </ContextState>
+      <ContextState
+         contextName = "Turtle::action():turtle.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "getWorld()-&gt;getGrid()[0][5]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "World::printGrid():World.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "grid[4][1]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "Animal::action():Animal.cpp">
+      </ContextState>
+      <ContextState
+         contextName = "World::bubbleSort(Organism**, int):World.cpp">
+      </ContextState>
+      <ContextState
+         contextName = "World::randomCellGenerator(Organism*):World.cpp">
+      </ContextState>
+      <ContextState
+         contextName = "Organism::setPositionXY(int, int):Organism.cpp">
+      </ContextState>
+      <ContextState
+         contextName = "Organism::putNewBorn(int, int, int, int):Organism.cpp">
+      </ContextState>
+      <ContextState
+         contextName = "Organism::collisions(int, int):Organism.cpp">
+      </ContextState>
+      <ContextState
+         contextName = "World::getOrganismArr():World.cpp">
+      </ContextState>
+      <ContextState
+         contextName = "World::deleteOrg(Organism*):World.cpp">
+      </ContextState>
+      <ContextState
+         contextName = "Organism::getWorld():Organism.cpp">
+      </ContextState>
+      <ContextState
+         contextName = "World::saveWorld():World.cpp">
+      </ContextState>
+      <ContextState
+         contextName = "Sheep::Sheep(World*, int, int, int, bool):sheep.cpp">
+      </ContextState>
+      <ContextState
+         contextName = "Organism::remove(Organism*):Organism.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "getWorld()-&gt;getQuantityOfOrganisms()">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "Organism::getInitiative():Organism.cpp">
+      </ContextState>
+      <ContextState
+         contextName = "Plant::action():Plant.cpp">
+      </ContextState>
+      <ContextState
+         contextName = "Organism::setPositionY(int):Organism.cpp">
+      </ContextState>
+      <ContextState
+         contextName = "World::createOrganisms():World.cpp">
+      </ContextState>
+      <ContextState
+         contextName = "Belladonna::breed(int, int):belladonna.cpp">
+      </ContextState>
+      <ContextState
+         contextName = "World::createOrgAtPos(Organism*, int, int):World.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "grid[y][x]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "World::getHuman():World.cpp">
+      </ContextState>
+      <ContextState
+         contextName = "Organism::getStrength():Organism.cpp">
+      </ContextState>
+      <ContextState
+         contextName = "Organism::getSpecieEnum():Organism.cpp">
+      </ContextState>
+      <ContextState
+         contextName = "Organism::Organism(Organism::Species, World*, int, int, int, int, int, bool):Organism.cpp">
+      </ContextState>
+      <ContextState
+         contextName = "Organism::isCellOccupied(int, int):Organism.cpp">
+      </ContextState>
+      <ContextState
+         contextName = "main:main.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "world.getGrid()[1][3]">
+            </PersistentString>
+            <PersistentString
+               value = "getWorld-&gt;organismCounter">
+            </PersistentString>
+            <PersistentString
+               value = "world.getIsHumanAlive()">
+            </PersistentString>
+            <PersistentString
+               value = "world.getHuman()">
+            </PersistentString>
+            <PersistentString
+               value = "h3">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "World::bubbleSort2(Organism**, int):World.cpp">
+      </ContextState>
+      <ContextState
+         contextName = "Organism::setPositionX(int):Organism.cpp">
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>

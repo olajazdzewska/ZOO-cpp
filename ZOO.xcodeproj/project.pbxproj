@@ -7,7 +7,23 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		B647E80829E59D5500CBDB66 /* Wolf.cpp in Sources */ = {isa = PBXBuildFile; fileRef = B647E80629E59D5400CBDB66 /* Wolf.cpp */; };
+		B64A83A229E7FFD400E98B68 /* sheep.cpp in Sources */ = {isa = PBXBuildFile; fileRef = B64A83A029E7FFD400E98B68 /* sheep.cpp */; };
+		B64A83A529E7FFE700E98B68 /* fox.cpp in Sources */ = {isa = PBXBuildFile; fileRef = B64A83A329E7FFE700E98B68 /* fox.cpp */; };
+		B64A83A829E8000400E98B68 /* turtle.cpp in Sources */ = {isa = PBXBuildFile; fileRef = B64A83A629E8000400E98B68 /* turtle.cpp */; };
+		B64A83AB29E800B200E98B68 /* antelope.cpp in Sources */ = {isa = PBXBuildFile; fileRef = B64A83A929E800B200E98B68 /* antelope.cpp */; };
+		B64A83AE29E8014200E98B68 /* grass.cpp in Sources */ = {isa = PBXBuildFile; fileRef = B64A83AC29E8014200E98B68 /* grass.cpp */; };
+		B64A83B129E8016600E98B68 /* sowThistle.cpp in Sources */ = {isa = PBXBuildFile; fileRef = B64A83AF29E8016600E98B68 /* sowThistle.cpp */; };
+		B64A83B429E8017100E98B68 /* guarana.cpp in Sources */ = {isa = PBXBuildFile; fileRef = B64A83B229E8017100E98B68 /* guarana.cpp */; };
+		B64A83B729E8017D00E98B68 /* belladonna.cpp in Sources */ = {isa = PBXBuildFile; fileRef = B64A83B529E8017D00E98B68 /* belladonna.cpp */; };
+		B64A83BA29E8018E00E98B68 /* SosnowskyHogweed.cpp in Sources */ = {isa = PBXBuildFile; fileRef = B64A83B829E8018E00E98B68 /* SosnowskyHogweed.cpp */; };
+		B64E8F8E29E083D90068D923 /* Animal.cpp in Sources */ = {isa = PBXBuildFile; fileRef = B64E8F8C29E083D90068D923 /* Animal.cpp */; };
+		B64E8F9129E083EC0068D923 /* Human.cpp in Sources */ = {isa = PBXBuildFile; fileRef = B64E8F8F29E083EC0068D923 /* Human.cpp */; };
+		B64E8FAA29E1C8B60068D923 /* Plant.cpp in Sources */ = {isa = PBXBuildFile; fileRef = B64E8FA829E1C8B60068D923 /* Plant.cpp */; };
+		B6A595D329EC3848005D2F6D /* main2.cpp in Sources */ = {isa = PBXBuildFile; fileRef = B6A595D229EC3848005D2F6D /* main2.cpp */; };
 		B6AC892F29DF1A6800416854 /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = B6AC892E29DF1A6800416854 /* main.cpp */; };
+		B6AC893729DF1A8800416854 /* World.cpp in Sources */ = {isa = PBXBuildFile; fileRef = B6AC893529DF1A8800416854 /* World.cpp */; };
+		B6AC893A29DF1C3C00416854 /* Organism.cpp in Sources */ = {isa = PBXBuildFile; fileRef = B6AC893829DF1C3C00416854 /* Organism.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -23,8 +39,40 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		B647E80629E59D5400CBDB66 /* Wolf.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = Wolf.cpp; sourceTree = "<group>"; };
+		B647E80729E59D5500CBDB66 /* Wolf.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = Wolf.hpp; sourceTree = "<group>"; };
+		B64A83A029E7FFD400E98B68 /* sheep.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = sheep.cpp; sourceTree = "<group>"; };
+		B64A83A129E7FFD400E98B68 /* sheep.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = sheep.hpp; sourceTree = "<group>"; };
+		B64A83A329E7FFE700E98B68 /* fox.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = fox.cpp; sourceTree = "<group>"; };
+		B64A83A429E7FFE700E98B68 /* fox.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = fox.hpp; sourceTree = "<group>"; };
+		B64A83A629E8000400E98B68 /* turtle.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = turtle.cpp; sourceTree = "<group>"; };
+		B64A83A729E8000400E98B68 /* turtle.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = turtle.hpp; sourceTree = "<group>"; };
+		B64A83A929E800B200E98B68 /* antelope.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = antelope.cpp; sourceTree = "<group>"; };
+		B64A83AA29E800B200E98B68 /* antelope.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = antelope.hpp; sourceTree = "<group>"; };
+		B64A83AC29E8014200E98B68 /* grass.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = grass.cpp; sourceTree = "<group>"; };
+		B64A83AD29E8014200E98B68 /* grass.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = grass.hpp; sourceTree = "<group>"; };
+		B64A83AF29E8016600E98B68 /* sowThistle.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = sowThistle.cpp; sourceTree = "<group>"; };
+		B64A83B029E8016600E98B68 /* sowThistle.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = sowThistle.hpp; sourceTree = "<group>"; };
+		B64A83B229E8017100E98B68 /* guarana.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = guarana.cpp; sourceTree = "<group>"; };
+		B64A83B329E8017100E98B68 /* guarana.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = guarana.hpp; sourceTree = "<group>"; };
+		B64A83B529E8017D00E98B68 /* belladonna.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = belladonna.cpp; sourceTree = "<group>"; };
+		B64A83B629E8017D00E98B68 /* belladonna.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = belladonna.hpp; sourceTree = "<group>"; };
+		B64A83B829E8018E00E98B68 /* SosnowskyHogweed.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = SosnowskyHogweed.cpp; sourceTree = "<group>"; };
+		B64A83B929E8018E00E98B68 /* SosnowskyHogweed.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = SosnowskyHogweed.hpp; sourceTree = "<group>"; };
+		B64E8F8C29E083D90068D923 /* Animal.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = Animal.cpp; sourceTree = "<group>"; };
+		B64E8F8D29E083D90068D923 /* Animal.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = Animal.hpp; sourceTree = "<group>"; };
+		B64E8F8F29E083EC0068D923 /* Human.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = Human.cpp; sourceTree = "<group>"; };
+		B64E8F9029E083EC0068D923 /* Human.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = Human.hpp; sourceTree = "<group>"; };
+		B64E8FA829E1C8B60068D923 /* Plant.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = Plant.cpp; sourceTree = "<group>"; };
+		B64E8FA929E1C8B60068D923 /* Plant.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = Plant.hpp; sourceTree = "<group>"; };
+		B6A595D229EC3848005D2F6D /* main2.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main2.cpp; sourceTree = "<group>"; };
 		B6AC892B29DF1A6800416854 /* ZOO */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = ZOO; sourceTree = BUILT_PRODUCTS_DIR; };
 		B6AC892E29DF1A6800416854 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
+		B6AC893529DF1A8800416854 /* World.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = World.cpp; sourceTree = "<group>"; };
+		B6AC893629DF1A8800416854 /* World.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = World.hpp; sourceTree = "<group>"; };
+		B6AC893829DF1C3C00416854 /* Organism.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = Organism.cpp; sourceTree = "<group>"; };
+		B6AC893929DF1C3C00416854 /* Organism.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = Organism.hpp; sourceTree = "<group>"; };
+		B6EB8CF22B70154600761DCB /* .gitignore */ = {isa = PBXFileReference; lastKnownFileType = text; path = .gitignore; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -41,6 +89,39 @@
 		B6AC892229DF1A6800416854 = {
 			isa = PBXGroup;
 			children = (
+				B6EB8CF22B70154600761DCB /* .gitignore */,
+				B6A595D229EC3848005D2F6D /* main2.cpp */,
+				B64A83A029E7FFD400E98B68 /* sheep.cpp */,
+				B64A83A129E7FFD400E98B68 /* sheep.hpp */,
+				B64A83A329E7FFE700E98B68 /* fox.cpp */,
+				B64A83A429E7FFE700E98B68 /* fox.hpp */,
+				B64A83A629E8000400E98B68 /* turtle.cpp */,
+				B64A83A729E8000400E98B68 /* turtle.hpp */,
+				B647E80629E59D5400CBDB66 /* Wolf.cpp */,
+				B647E80729E59D5500CBDB66 /* Wolf.hpp */,
+				B64A83A929E800B200E98B68 /* antelope.cpp */,
+				B64A83AA29E800B200E98B68 /* antelope.hpp */,
+				B64A83AC29E8014200E98B68 /* grass.cpp */,
+				B64A83AD29E8014200E98B68 /* grass.hpp */,
+				B64A83B229E8017100E98B68 /* guarana.cpp */,
+				B64A83B329E8017100E98B68 /* guarana.hpp */,
+				B64A83AF29E8016600E98B68 /* sowThistle.cpp */,
+				B64A83B029E8016600E98B68 /* sowThistle.hpp */,
+				B64A83B529E8017D00E98B68 /* belladonna.cpp */,
+				B64A83B629E8017D00E98B68 /* belladonna.hpp */,
+				B64A83B829E8018E00E98B68 /* SosnowskyHogweed.cpp */,
+				B64A83B929E8018E00E98B68 /* SosnowskyHogweed.hpp */,
+				B64E8F8F29E083EC0068D923 /* Human.cpp */,
+				B64E8F9029E083EC0068D923 /* Human.hpp */,
+				B6AC892E29DF1A6800416854 /* main.cpp */,
+				B6AC893529DF1A8800416854 /* World.cpp */,
+				B6AC893629DF1A8800416854 /* World.hpp */,
+				B6AC893829DF1C3C00416854 /* Organism.cpp */,
+				B6AC893929DF1C3C00416854 /* Organism.hpp */,
+				B64E8FA829E1C8B60068D923 /* Plant.cpp */,
+				B64E8FA929E1C8B60068D923 /* Plant.hpp */,
+				B64E8F8C29E083D90068D923 /* Animal.cpp */,
+				B64E8F8D29E083D90068D923 /* Animal.hpp */,
 				B6AC892D29DF1A6800416854 /* ZOO */,
 				B6AC892C29DF1A6800416854 /* Products */,
 			);
@@ -57,7 +138,6 @@
 		B6AC892D29DF1A6800416854 /* ZOO */ = {
 			isa = PBXGroup;
 			children = (
-				B6AC892E29DF1A6800416854 /* main.cpp */,
 			);
 			path = ZOO;
 			sourceTree = "<group>";
@@ -119,7 +199,23 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				B6AC893A29DF1C3C00416854 /* Organism.cpp in Sources */,
+				B64A83A829E8000400E98B68 /* turtle.cpp in Sources */,
+				B64E8F8E29E083D90068D923 /* Animal.cpp in Sources */,
+				B6AC893729DF1A8800416854 /* World.cpp in Sources */,
+				B64A83B729E8017D00E98B68 /* belladonna.cpp in Sources */,
+				B647E80829E59D5500CBDB66 /* Wolf.cpp in Sources */,
+				B64E8FAA29E1C8B60068D923 /* Plant.cpp in Sources */,
+				B64A83AE29E8014200E98B68 /* grass.cpp in Sources */,
+				B64A83BA29E8018E00E98B68 /* SosnowskyHogweed.cpp in Sources */,
 				B6AC892F29DF1A6800416854 /* main.cpp in Sources */,
+				B64A83B129E8016600E98B68 /* sowThistle.cpp in Sources */,
+				B64A83A529E7FFE700E98B68 /* fox.cpp in Sources */,
+				B64A83AB29E800B200E98B68 /* antelope.cpp in Sources */,
+				B64A83B429E8017100E98B68 /* guarana.cpp in Sources */,
+				B6A595D329EC3848005D2F6D /* main2.cpp in Sources */,
+				B64E8F9129E083EC0068D923 /* Human.cpp in Sources */,
+				B64A83A229E7FFD400E98B68 /* sheep.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

@@ -1,0 +1,22 @@
+2 2
+20 20
+wolf 2 4 7
+human 3 6 9
+fox 3 10 3
+fox 4 18 9
+turtle 7 14 3
+antelope 7 16 8
+sow_Thistle 11 16 1
+Sosnowsky_Hogweed 11 17 7
+belladonna 13 7 1
+sheep 12 11 6
+sow_Thistle 12 15 1
+sow_Thistle 12 16 8
+belladonna 13 6 1
+grass 13 8 2
+guarana 16 1 1
+guarana 16 3 1
+antelope 17 1 9
+wolf 17 10 3
+sheep 18 13 4
+turtle 19 11 10
