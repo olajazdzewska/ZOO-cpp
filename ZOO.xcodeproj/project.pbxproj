@@ -73,6 +73,7 @@
 		B6AC893829DF1C3C00416854 /* Organism.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = Organism.cpp; sourceTree = "<group>"; };
 		B6AC893929DF1C3C00416854 /* Organism.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = Organism.hpp; sourceTree = "<group>"; };
 		B6EB8CF22B70154600761DCB /* .gitignore */ = {isa = PBXFileReference; lastKnownFileType = text; path = .gitignore; sourceTree = "<group>"; };
+		B6FAE2152B721D0E004AD071 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -115,6 +116,7 @@
 				B64E8F9029E083EC0068D923 /* Human.hpp */,
 				B6AC892E29DF1A6800416854 /* main.cpp */,
 				B6AC893529DF1A8800416854 /* World.cpp */,
+				B6FAE2152B721D0E004AD071 /* README.md */,
 				B6AC893629DF1A8800416854 /* World.hpp */,
 				B6AC893829DF1C3C00416854 /* Organism.cpp */,
 				B6AC893929DF1C3C00416854 /* Organism.hpp */,

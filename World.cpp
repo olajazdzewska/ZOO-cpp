@@ -86,7 +86,7 @@ void World::sethumanSAtrue(){
 };
 
 bool World::isEmptyCellOnGrid(){
- //   to avoid infinite recursionb
+ //   to avoid infinite recursion
     for(int i=0; i<getHeight(); i++){
         for(int j=0; j<getWidth(); j++){
             if(grid[i][j] == NULL)
@@ -118,7 +118,7 @@ bool World::getIsHumanAlive(){
 
 
 void World::createOrgAtPos(Organism* specie, int y, int x){
-    specie->setPositionXY(y, x); //wywalone zostaly prev = position!!!!
+    specie->setPositionXY(y, x);
     specie->setPrevPositionX(x);
     specie->setPrevPositionY(y);
     this->grid[y][x] = specie;
@@ -206,13 +206,9 @@ void World::printGrid(){
         for(int j=0; j<width; j++){
             if(grid[i][j] != NULL){
                 Organism *tmp = grid[i][j]; 
-              //  if(tmp -> getProposedX() != 0){
                     tmp->draw();
                     tmp->~Organism();
-              //  }
-              //  else{ //!!!
-              //      grid[i][j] = NULL;
-              //  }
+
             }
             else
                 cout << " ";
